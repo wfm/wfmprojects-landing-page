@@ -1,0 +1,3 @@
+User-agent: *
+Disallow:
+Sitemap: https://wfm.github.io/wfmprojects-landing-page/sitemap.xml
