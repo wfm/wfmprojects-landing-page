@@ -2,10 +2,10 @@
     "version": "https://jsonfeed.org/version/1",
     "title": "WFM Projects",
     "description": "",
-    "home_page_url": "https://wfm.github.io/wfmprojects-landing-page",
-    "feed_url": "https://wfm.github.io/wfmprojects-landing-page/feed.json",
+    "home_page_url": "https://wfmprojects.com",
+    "feed_url": "https://wfmprojects.com/feed.json",
     "user_comment": "",
-    "icon": "https://wfm.github.io/wfmprojects-landing-page/media/website/square-logo-navy.png",
+    "icon": "https://wfmprojects.com/media/website/square-logo-navy.png",
     "author": {
         "name": "William Murphy"
     },
